@@ -31,3 +31,7 @@ git clone https://github.com/Santiagomendez12/proyecto-final-tp-PiCaDoh
 
 ## Estado Actual del Proyecto
 Configuración inicial y estructura del proyecto.
+
+## Link del Wiki 
+
+https://github.com/Santiagomendez12/proyecto-final-tp-PiCaDoh.wiki.git
